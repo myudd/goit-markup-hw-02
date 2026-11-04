@@ -1,4 +1,16 @@
-
-.tean-card{
+.team-card{
     background-color: #fff;
+}
+.team{
+    background-color: #F4F4FD;
+}
+.team-headline,
+.team-card-name,
+.team-card-role{
+    text-align: center;
+}
+.team-card-role{
+    color: #434455;
+    font-weight: 400;
+    font-size: 16px;
 }

@@ -1,6 +1,6 @@
-.features-card{
-    width: 264px;
+.features-card-name{
+    line-height: 1.2;
 }
-#features{
-    background: #fff;
+.features-card-text{
+    color: #434455;
 }

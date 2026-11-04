@@ -10,4 +10,11 @@
     font-weight: 500;
     font-size: 16px;
     color: #2e2f42;
+    letter-spacing: 0.02em;
+}
+.adress-info{
+    font-style: normal;
+}
+.address-contacts-link{
+    letter-spacing: 0.02em;
 }
