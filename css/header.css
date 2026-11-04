@@ -18,3 +18,9 @@
 .address-contacts-link{
     letter-spacing: 0.02em;
 }
+.nav-item-link:hover,
+.address-contacts-link:hover,
+.nav-item-link:focus
+.address-contacts-link:focus{
+    color: #404BBF;
+}

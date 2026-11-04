@@ -53,11 +53,4 @@ button{
     clip: rect(0 0 0 0);
     overflow: hidden;
 }
-a:hover,
-a:focus{
-    color: #404BBF;
-}
-.logo:hover,
-.logo:focus{
-    transform: none;
-}
+
