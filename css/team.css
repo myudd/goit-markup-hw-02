@@ -4,6 +4,12 @@
 .team{
     background-color: #F4F4FD;
 }
+.team-headline{
+    line-height: 1.11;
+}
+.team-card-name{
+    line-height: 1.2;
+}
 .team-headline,
 .team-card-name,
 .team-card-role{

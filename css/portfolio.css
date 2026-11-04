@@ -2,6 +2,9 @@
     text-align: center;
     line-height: 1.11;
 }
+.portfolio-card-hedline{
+    line-height: 1.2;
+}
 .portfolio-card-cat{
     color: #434455;
 }

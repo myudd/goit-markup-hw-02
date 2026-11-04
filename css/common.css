@@ -36,6 +36,7 @@ button{
     text-transform: uppercase;
     letter-spacing: 0.03em;
     color: #2e2f42;
+    line-height: 1.33;
 }
 .highlight{
     color: #4D5AE5;
@@ -55,4 +56,8 @@ button{
 a:hover,
 a:focus{
     color: #404BBF;
+}
+.logo:hover,
+.logo:focus{
+    transform: none;
 }
