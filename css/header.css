@@ -20,7 +20,7 @@
 }
 .nav-item-link:hover,
 .address-contacts-link:hover,
-.nav-item-link:focus
+.nav-item-link:focus,
 .address-contacts-link:focus{
     color: #404BBF;
 }
