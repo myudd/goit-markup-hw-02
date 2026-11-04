@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+body{
+    font-family: Roboto, sans-serif;
+    color: #2e2f42;
+    background-color: #F4F4FD;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+
+a{
+    text-decoration: none;
+}
+h3{
+    font-size: 20px;
+    font-weight: 500;
+}
+p{
+    font-size: 16px;
+    font-weight: 400;
+}
+h2{
+    font-weight: 700;
+    font-size: 36px;
+}
+li{
+    list-style-type: none;
+}
+button{
+    border: none;
+    cursor: pointer;
+}
+.logo{
+    font-weight: 700;
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    color: #2e2f42;
+}
+.highlight{
+    color: #4D5AE5;
+}
+.visually-hidden{
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    bottom: 0;
+    padding: 0;
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+}
+a:hover,
+a:focus{
+    color: #404BBF;
+}

@@ -1,0 +1,22 @@
+
+#hero{
+    background-color: #2E2F42;
+}
+.hero-headline{
+    font-size: 56px;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+}
+.hero-button{
+    text-align: center;
+    border-radius: 4px;
+    background-color: #4d5ae5;
+    color: #fff;
+    font-weight: 500;
+}
+.hero-button:hover,
+.hero-button:focus{
+    box-shadow: 0 4px 4px 0 #00000026;
+    background-color: #404BBF;
+}
